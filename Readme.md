@@ -1,7 +1,7 @@
 # Личный проект «Угадай мелодию» [![Build status][travis-image]][travis-url]
 
 * Студент: [Максим Щеглов](https://up.htmlacademy.ru/ecmascript/3/user/194251).
-* Наставник: `Неизвестно`.
+* Наставник: `Михаил Баранов`.
 
 ---
 
